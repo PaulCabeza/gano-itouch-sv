@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85384706539",
+    "firebase_url": "https://gano-pedidos.firebaseio.com",
+    "project_id": "gano-pedidos",
+    "storage_bucket": "gano-pedidos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85384706539:android:f8676c8d210de434a6c1ae",
+        "android_client_info": {
+          "package_name": "com.ovidiocabeza.gano_pedidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85384706539-vqqiiarjgrkrtll03bmhao9b28jlmhqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0TguPxa-z6Ape5eBD0ieQO2iCIjYddM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85384706539-vqqiiarjgrkrtll03bmhao9b28jlmhqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
